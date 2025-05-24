@@ -418,3 +418,10 @@ section.single-post-iframe-section {
     border: 2px solid rgba(250,250,250,0.1);
     border-radius: 5px;
 }
+
+
+@media (min-width: 950px) and (max-width: 1200px) {
+	#menu .main-menu li a {
+		font-size: 15px;
+	}
+}
