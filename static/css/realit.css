@@ -299,6 +299,9 @@ section.single-post-iframe-section {
 	section.coming-soon {
 		padding: 20px 10px;
 	}
+	.one-cell-feature {
+		height: 260px;
+	}
 }
 
 @media (max-width: 768px) {
