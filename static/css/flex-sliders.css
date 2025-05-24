@@ -14,8 +14,8 @@
  * ====================================================================================================================*/
 @font-face {
   font-family: 'flexslider-icon';
-  src: url('https://cdn.jsdelivr.net/gh/cima4u/fonts/flexslider-icon.eot');
-  src: url('https://cdn.jsdelivr.net/gh/cima4u/fonts/flexslider-icon.eot?#iefix') format('embedded-opentype'), url('https://cdn.jsdelivr.net/gh/cima4u/fonts/flexslider-icon.woff') format('woff'), url('https://cdn.jsdelivr.net/gh/cima4u/fonts/flexslider-icon.ttf') format('truetype'), url('https://cdn.jsdelivr.net/gh/cima4u/fonts/flexslider-icon.svg#flexslider-icon') format('svg');
+  src: url('https://cdn.jsdelivr.net/gh/cima4u/cdn/static/fonts/flexslider-icon.eot');
+  src: url('https://cdn.jsdelivr.net/gh/cima4u/cdn/static/fonts/flexslider-icon.eot?#iefix') format('embedded-opentype'), url('https://cdn.jsdelivr.net/gh/cima4u/cdn/static/fonts/flexslider-icon.woff') format('woff'), url('https://cdn.jsdelivr.net/gh/cima4u/cdn/static/fonts/flexslider-icon.ttf') format('truetype'), url('https://cdn.jsdelivr.net/gh/cima4u/cdn/static/fonts/flexslider-icon.svg#flexslider-icon') format('svg');
   font-weight: normal;
   font-style: normal;
 }
