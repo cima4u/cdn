@@ -425,3 +425,39 @@ section.single-post-iframe-section {
 		font-size: 15px;
 	}
 }
+
+.first-iframe-container-section, .second-iframe-container-section {
+	text-align: right;
+}
+
+.second-iframe-container-section {
+    margin-top: 20px;
+}
+
+.first-iframe-container-section .first-iframe-title, .second-iframe-container-section .second-iframe-title {
+	color: #ffffffe0;
+	font-size: 20px;
+	margin-bottom: 10px;
+	display: block;
+}
+
+.first-iframe-container-section .first-iframe-list, .second-iframe-container-section .second-iframe-list {
+	display: flex;
+	flex-wrap: wrap;
+	gap: 15px;
+	padding: 0px;
+	margin: 0px;
+	list-style: none;
+	margin-bottom: 20px;
+}
+
+.first-iframe-container-section .first-iframe-list li, .second-iframe-container-section .second-iframe-list li {
+	padding: 10px 15px;
+	border: 2px solid rgba(250,250,250,0.1);
+	border-radius: 5px;
+	cursor: pointer;
+}
+
+.first-iframe-container-section .first-iframe-list li a, .second-iframe-container-section .second-iframe-list li a {
+	font-size: 20px;
+}
